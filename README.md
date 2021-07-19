@@ -21,3 +21,8 @@ https://www.opendata.nhs.scot/dataset/weekly-covid-19-statistical-data-in-scotla
 •	Mid-year population estimates: Scotland and its council areas, total population by sex: 1981 to 2020 (174 rows, 95 columns)
 https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/mid-year-population-estimates/population-estimates-time-series-data
 
+
+
+## The link to my Tableau Public page
+
+https://public.tableau.com/views/RelationshipsbetweenCOVID-19positivecaseshospitaladmissionsdeathsandvaccinationsinScotland/StoryCovid-19inScotland?:language=en-GB&:display_count=n&:origin=viz_share_link
