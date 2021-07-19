@@ -23,6 +23,6 @@ https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme
 
 
 
-## The link to my Tableau Public page
+## The link to my Tableau Public visualisations
 
 https://public.tableau.com/views/RelationshipsbetweenCOVID-19positivecaseshospitaladmissionsdeathsandvaccinationsinScotland/StoryCovid-19inScotland?:language=en-GB&:display_count=n&:origin=viz_share_link
