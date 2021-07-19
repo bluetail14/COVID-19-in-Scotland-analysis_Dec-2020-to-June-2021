@@ -1,0 +1,17 @@
+Metric,Metric 2,Corr coef
+Vaccinations,Vaccinations,1.0
+Vaccinations,Positive Cases,-0.20545263155160517
+Vaccinations,Hospital Admissions,-0.43213984531448846
+Vaccinations,Deaths,-0.6055177358305791
+Positive Cases,Vaccinations,-0.20545263155160517
+Positive Cases,Positive Cases,1.0
+Positive Cases,Hospital Admissions,0.7535035852163185
+Positive Cases,Deaths,0.6037136774681597
+Hospital Admissions,Vaccinations,-0.43213984531448846
+Hospital Admissions,Positive Cases,0.7535035852163185
+Hospital Admissions,Hospital Admissions,1.0
+Hospital Admissions,Deaths,0.8401245469311996
+Deaths,Vaccinations,-0.6055177358305791
+Deaths,Positive Cases,0.6037136774681597
+Deaths,Hospital Admissions,0.8401245469311996
+Deaths,Deaths,1.0
