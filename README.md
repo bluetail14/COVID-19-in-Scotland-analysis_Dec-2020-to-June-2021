@@ -1,5 +1,5 @@
 # COVID-19-in-Scotland-Dec-2020-to-June-2021
-A project to explore the relationships between vaccinations, positive cases, hospital admissions and deaths in Scotland.
+A project to explore the relationships between COVID-19 vaccinations, positive cases, hospital admissions and deaths in Scotland.
 
 The data is taken from Public Heath Scotland and National Records of Scotland.
 
